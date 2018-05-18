@@ -1,4 +1,4 @@
-package school.management.system;
+package schoolms;
 
 /**
  * Responsible for keeping track of teachers, id, name, and salary

@@ -1,4 +1,4 @@
-package school.management.system;
+package schoolms;
 
 /**
  * This is class is responsible for keeping track of students, names, fees, grade, a paid fees.
